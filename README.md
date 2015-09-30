@@ -1,4 +1,3 @@
 # eng58-links
-เพจรวบรวมลิงก์สำคัญสำหรับน้องใหม่วิศวฯ ปี 58
-
-written with jade(HTML) + CSS
+A simple portal page containing important links for engineering freshies of 2015, 
+designed with responsiveness and mobile devices in mind, and written with jade(HTML) + CSS.
